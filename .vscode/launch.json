@@ -12,7 +12,7 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "/Users/sebastian/Documents/GitHub/bcn-controller/bcn-controller/.pio/build/d1_mini_lite/firmware.elf",
+            "executable": "/Users/sebastian/Documents/GitHub/bcn-controller/.pio/build/d1_mini_lite/firmware.elf",
             "projectEnvName": "d1_mini_lite",
             "toolchainBinDir": "/Users/sebastian/.platformio/packages/toolchain-xtensa/bin",
             "internalConsoleOptions": "openOnSessionStart",
@@ -25,7 +25,7 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "/Users/sebastian/Documents/GitHub/bcn-controller/bcn-controller/.pio/build/d1_mini_lite/firmware.elf",
+            "executable": "/Users/sebastian/Documents/GitHub/bcn-controller/.pio/build/d1_mini_lite/firmware.elf",
             "projectEnvName": "d1_mini_lite",
             "toolchainBinDir": "/Users/sebastian/.platformio/packages/toolchain-xtensa/bin",
             "internalConsoleOptions": "openOnSessionStart"
